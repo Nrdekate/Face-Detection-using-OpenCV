@@ -1,4 +1,4 @@
-#Face-Detection-using-OpenCV
+Face-Detection-using-OpenCV
 
 - Concepts of Image processing to detect only faces from the entire
 image frame.
